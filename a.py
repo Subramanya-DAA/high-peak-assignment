@@ -20,3 +20,4 @@ for i in range(n):
 
 result = job_selection(n, jobs)
 print(result[0], result[1])
+# to run the code press " F5 "
